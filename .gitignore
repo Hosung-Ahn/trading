@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # 보안 정보
-config.py
+env.py
 token.dat
